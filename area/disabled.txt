@@ -1,0 +1,13 @@
+note 12 Neka
+vampcreate 12 Smoo
+bugfind 11 Breetai
+challenge 11 Breetai
+wall 11 Breetai
+sell 11 Breetai
+stigmata 11 Breetai
+bloodagony 11 Breetai
+hset 11 Breetai
+godless 12 Dalard
+description 12 Neka
+bounty 12 Neka
+END

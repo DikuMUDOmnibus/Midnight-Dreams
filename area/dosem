@@ -1,0 +1,7 @@
+#! /bin/sh
+ls *.are | while read file
+do
+fromdos < $file > /tmp/dosem.tmp
+cp /tmp/dosem.tmp $file
+done
+rm /tmp/dosem.tmp

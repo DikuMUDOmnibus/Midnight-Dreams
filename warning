@@ -1,0 +1,21 @@
+THIS CODE IS BUGGY TO SHIT USE IT AT YOUR OWN RISK. If you wanna 
+debug it you can check out crash.txt in area folder it logs last thing
+to happen when the mud crashes sorta like a signal handler ya know.
+anyways Please dont go bugging me for help about bugs. if there not 
+fixed now I dont know how. Sell and desc and note with alot of colors
+are bugged there easy fixes I was to lazy to get around to it. If you 
+want you can fix arena all I think it lacked was a arena that had the 
+vnums we put anyways..... HAVE FUN!!!!!
+-bryantos
+
+Its not really that buggy, we just had a lot of disabled shit because we
+everyone thought they were bugged when they weren't, I don't think sell is
+bugged but it might be .. desc and note can be easily fixed by stuffing in
+a bash_color(argument); at the start of the commands, anyways, the arena
+shouldn't even be much work but I quit mudding so have fun fixing them
+yourselves
+
+if crash.txt says it wasn't a pfile and it wasn't a command that crashed
+the mud, its a memory error or something in update.c or something like
+that
+ -Smoo

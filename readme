@@ -1,0 +1,15 @@
+Ok This is a Godwars Codebase. It comes with everything a coder could want
+and more. Be sure to read class.c over very carefully and understand how
+it works. To startup the mud do a make in the src directory and it
+will compile. Next when your ready Add your names into the command
+do_relevel in kav_wiz.c then do ./startup portnumber& - log on
+with the name you had set in relevel and type relevel. HAVE FUN AND
+REMEMBER TO READ LICENSE!.
+-Bryantos
+
+-please read smoo's thingy in license. the license is modified from the
+original release because bryantos didn't give me a chance to say anything
+and all he did was provide the server, me(Smoo) and jace did all the work
+on the mud, with some help from berelain and bryantos, although they
+started to code shortly before the mud went down.-
+-Smoo

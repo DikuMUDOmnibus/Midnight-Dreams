@@ -1,0 +1,319 @@
+#AREA	{ 5 35} M.Z.F.  Prototype for New Area~
+
+
+#MOBILES
+#13568
+kaiser dog ~
+Kaiser the Rottweiller~
+Kaiser The Rottweiler Stands Here Protecting her masters Kyla And Bryantos
+~
+GROWL
+~
+2|64 128 0 S
+99999 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#13569
+jkmaidslut ~
+A Slutty Maid~
+A Slutty Maid wearing A #0Black #nAnd #7White #nMaids uniform stands here Bending over
+~
+You See a Beautiful maid With such a low cut blouse and Short Skirt that
+you can see her nipples and Cunt. She Notices you looking at her and she Bends
+Way over For you to take command of the situation while she cleans.
+~
+2|64 128 0 S
+99999 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#13568
+water bed~
+A huge #4WaterBed#n.~
+A Huge #4WaterBed#n is set in the middle Of the room For some Major action!!!.~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#13569
+huge boom box~
+A huge #0Black Boombox#n.~
+A Huge #0Black Boombox #nis here Blaring music!!!.~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#13570
+red velvet bed~
+A #1Red Velvet Bed~
+A #1Red Velvet Bed #n Lays in the center Looking ever so comfortable~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#13571
+white leather chair~
+A #7White Leather Chair~
+#7A Huge White Leather Chair Lays Here with the body mold Of Bryantos assumed into it.~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#13572
+Blue leather chair~
+#6 A blue Leather Chair~
+#6A Blue Leather Chair With A Practically Engraved Shape Of Kyla on the comfy Chair~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#13573
+Sound system stereo~
+#0A Huge 3d Sound system ~
+#0 A huge 3d Sound system Blaring Music everywhere!~
+~
+12 0 0
+0 1 6 11
+5 0 0
+#0
+
+
+#ROOMS
+#13568
+The porch to Kyla And Bryantos's House~
+You walk on to The porch where you see that the outside of the
+house is painted a neon green....Kinkiness. While you stare at the
+unique pictures and furniture lying outside and a quaint little
+Swing as well endlessy moving back and forth.
+~
+0 8 0
+D0
+~
+~
+0 -1 13569
+S
+#13569
+House Foyer~
+You stand in the Foyer of Bryantos home and you stare around in awe.
+God its pretty damn clean, there are pictures of his family, people,
+and this one picture labled JULIE seems to just stand out from the rest
+you believe there must be some aura of goodness or love around it. Perhaps
+this is his love?
+~
+0 8 0
+D0
+~
+~
+0 -1 13572
+D1
+~
+~
+0 -1 13571
+D2
+~
+~
+0 -1 13568
+D3
+~
+~
+0 -1 13570
+S
+#13570
+A Strange Kitchen~
+As you enter The White Tiled Kitchen, You Notice Everything Is bieng operated and
+Washed by.....AIR??? Wow thats unbelievable There must be some secret
+Magic at Work to Do all this ....
+~
+0 8 0
+D1
+~
+~
+0 -1 13569
+S
+#13571
+Bryantos's Study~
+You enter to be what looks like a study. There are poetry books all around,
+pieces of mashed paper, and just generalized Notes and messups around. You
+seem to notice a white chair laying behind a big wooden desk. There are pictures
+of one paticular girl all over them, in fact its the girl from the hallway ....
+hmmm.
+~
+0 8 0
+D3
+~
+~
+0 -1 13569
+S
+#13572
+Main Hall~
+As you Step into the Main hall you notice a big Staircase leading all the way to
+the Tip top. The Music Blaring to the east also Causes some attention But
+The smell from the west is Appetizing.
+~
+0 8 0
+D1
+~
+~
+0 -1 13573
+D2
+~
+~
+0 -1 13569
+D3
+~
+~
+0 -1 13574
+D4
+~
+~
+0 -1 13575
+S
+#13573
+Living Room~
+You are in the living room Of Bryantos's Home. The Expensive Stereo
+System seems to shake the whole house but Bryantos seems just fine
+in his chair and wiggling about.
+~
+0 8 0
+D3
+~
+~
+0 -1 13572
+S
+#13574
+Dining Room~
+MMMmmMmMmMmMMMmmmm. Smells Good! All the Meals seem to be prepared and placed here
+Just For Luxury, By The size of the Chandelier and Table This room must
+have costed a pretty penny...
+~
+0 0 1
+D1
+~
+~
+0 -1 13572
+S
+#13575
+2nd Floor~
+You wander upstairs and notice this hallway must lead to the bedchambers
+perhaps you should not linger long.
+~
+0 0 1
+D3
+~
+~
+0 -1 13576
+D5
+~
+~
+0 -1 13572
+S
+#13576
+Upstairs hall~
+You Have Walked into the upstairs hall. this Paticular piece of the house leads
+To a Luxury Room Which is coordinatly Located South of here.
+~
+0 8 1
+D1
+~
+~
+0 -1 13575
+D2
+~
+~
+0 -1 13577
+D3
+~
+~
+0 -1 13582
+S
+#13577
+Rec Room~
+You enter a room filled with music and Luxury, This seems to be a jam room
+from jazz to hardrock. There also seem to be some videos and *cough* magazines
+littered about.
+~
+0 8 0
+D0
+~
+~
+0 -1 13576
+S
+#13579
+Bryantos Bedroom~
+You stamp into the cleanest bedroom youve ever seen. You know Bry doesnt
+clean it he must have a maid or something hes to god damn lazy. But you
+cant help but marvel if you had a house like this!
+~
+0 8 0
+D0
+~
+~
+0 -1 13582
+S
+#13580
+Elevator~
+You have Come upon A Big Elevator which
+Leads back to the Entrance of The Imps
+Home.
+~
+0 8 0
+D1
+~
+~
+0 -1 13582
+S
+#13581
+Guestroom~
+This is the Guest room.
+~
+0 8 0
+D2
+~
+~
+0 -1 13582
+S
+#13582
+Upstairs hall~
+This seems to lead to the rest of the bedrooms ohh joy they seem
+to sparkle everywhere. God you hate Bry for having such a cool ass
+house.
+~
+0 8 0
+D0
+~
+~
+0 -1 13581
+D1
+~
+~
+0 -1 13576
+D2
+~
+~
+0 -1 13579
+D3
+~
+~
+0 -1 13580
+S
+#0
+
+
+#RESETS
+*
+M 1 13569 1 13577			A Slutty Maid wearing a #0Black #nand #7White  to Jessica's Room
+O 1 13570 100 13577			A #1Red Velvet Bed to Jessica's Room
+*
+O 1 13568 100 13579			A huge #4WaterBed#n. to Kyla And Bryantos's Bedroom
+O 1 13569 100 13579			A huge #0Black Boombox#n. to Kyla And Bryantos's Bedroom
+O 1 13571 100 13571			A #7White Leather Chair to Bryantos's Study
+O 1 13571 100 13573			A #7White Leather Chair to Living Room
+O 1 13572 100 13573			#6 A blue Leather Chair to Living Room
+O 1 13573 100 13573			#0A Huge 3d Sound system  to Living Room
+S
+
+
+#$
